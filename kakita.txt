@@ -2,3 +2,4 @@ kakita
 kakita2
 kakita local
 kakita local
+kakita remota
