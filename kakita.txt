@@ -1,6 +1,7 @@
 kakita
 kakita2
 he tocado esto local
+He tocado esto remoto 
 kakita local
 kakita local
 kakita remota
